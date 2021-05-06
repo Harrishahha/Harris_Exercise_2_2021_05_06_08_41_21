@@ -5,6 +5,7 @@ function setup() {
 
 function draw() {
   
+  
   frameRate(4);
   let x1=random(400);
   let x2=random(400);
